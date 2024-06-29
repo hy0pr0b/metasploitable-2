@@ -1,0 +1,8 @@
+1-) kullanıcı = msfadmin 
+    şifre = msfadmin     ile giriş yapılır
+
+2-) Çıkan terminal üzerinde =  sudo nano /var/www/mutilliade/config.inc  yazılır
+
+3-) Açılan terminal ekranı üzerinden $dbname kısmına owasp10 yazılır.
+
+4-) CTRL + O  ve CTRL + X yapılarak sayfadan çıkılabilir.
